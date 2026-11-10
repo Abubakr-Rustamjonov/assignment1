@@ -3,3 +3,5 @@
 Assignment 1 in the course DIT044 Object-oriented Programming
 
 See Canvas for instructions.
+
+we can write the things we understood
